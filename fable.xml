@@ -1,6 +1,6 @@
 <fable>
 	<page background="bg.png"soundtrack="Vilão.mp3">
-    <agent
+    <agent x="40" y ""
         
         
         >
